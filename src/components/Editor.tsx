@@ -37,9 +37,9 @@ export function Editor() {
         lowlight,
       }),
     ],
-    onUpdate(editor) {
-      // editor.editor.getHTML()
-    },
+    // onUpdate(editor) {
+    //   // editor.editor.getHTML()
+    // },
     content: InitialContent,
     editorProps: {
       attributes: {
